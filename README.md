@@ -48,8 +48,8 @@ print('Predicted CO2 for the corresponding weight and volume',predictedCO2)
 
 ```
 ## Output:
+<img width="1141" height="330" alt="image" src="https://github.com/user-attachments/assets/6838e0c1-785d-4f97-a0b5-ce9ee829b669" />
 
-![alt text](image.png)
 
 
 <br>
